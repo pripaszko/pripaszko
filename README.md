@@ -1,7 +1,6 @@
+<img src="https://user-images.githubusercontent.com/63474692/164566285-f4d7e3a3-7ab2-4a9a-b61f-69f8bd88ca58.png" heigh="300px" width="300px" align="right">
+
 ### Hi👋 My name is Pricila
-
-<img src="https://user-images.githubusercontent.com/63474692/164566285-f4d7e3a3-7ab2-4a9a-b61f-69f8bd88ca58.png" heigh="350px" width="350px" align="right">
-
 
 ![](https://komarev.com/ghpvc/?username=pripaszko&color=006bed)
 
