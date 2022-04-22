@@ -7,8 +7,9 @@
 <h3> :relaxed: &nbsp;About me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing solutions using artificial intelligence.
-- 🎓 &nbsp; Studying Big Data and Analytical Intelligence at <a href="link da sua faculdade">PUCPR</a>.
-- 💼 &nbsp; Working as a developer at <a href="LINK DA EMPRESA">SmartHint</a>
+- 🎓 &nbsp; Studying Big Data and Analytical Intelligence at <a href="https://ead.pucpr.br/cursos-graduacao/big-data-e-inteligencia-analitica-ead">PUCPR</a>.
+- 🎓 &nbsp; Machine Learning Engineer at <a href="https://www.igti.com.br/bootcamp/engenheiro-de-machine-learning?evento=ai_today">IGTI</a>.
+- 💼 &nbsp; Working as a developer at <a href="https://www.smarthint.co/">SmartHint</a>
 - 🌱 &nbsp; Learning more about Data Engineering and Artificial Intelligence.
 
 <h3> :rocket: &nbsp;My Skills </h3>
@@ -70,6 +71,6 @@
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-pripaszko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: PRICILA PASZKO](https://img.shields.io/badge/-pripaszko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-pripaszko@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/pripaszko?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub PRICILA PASZKO]( https://img.shields.io/github/followers/pripaszko?label=follow&style=social)](https://github.com/pripaszko)
