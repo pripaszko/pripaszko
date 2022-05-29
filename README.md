@@ -7,10 +7,11 @@
 <h3> :relaxed: &nbsp;About me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing solutions using artificial intelligence.
+- 💼 &nbsp; Working as a Artificial Intelligence Developer at <a href="https://www.smarthint.co/">SmartHint</a>
 - 🎓 &nbsp; Machine Learning Engineer at <a href="https://www.igti.com.br/bootcamp/engenheiro-de-machine-learning?evento=ai_today">IGTI</a>.
+- 🎓 &nbsp; Studying Big Data Science at <a href="https://semantix.gupy.io/jobs/1730103">Semantix Academy</a>.
 - 🎓 &nbsp; Studying Big Data and Analytical Intelligence at <a href="https://ead.pucpr.br/cursos-graduacao/big-data-e-inteligencia-analitica-ead">PUCPR</a>.
-- 🎓 &nbsp; Data Engineer Training at <a href="https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-dados">Data Science Academy</a>.
-- 💼 &nbsp; Working as a Developer at <a href="https://www.smarthint.co/">SmartHint</a>
+- 🎓 &nbsp; Studying Artificial Intelligence Training at <a href="https://www.datascienceacademy.com.br/bundle/formacao-inteligencia-artificial">Data Science Academy</a>.
 - 🌱 &nbsp; Learning more about Data Engineering and Artificial Intelligence.
 
 <h3> :rocket: &nbsp;My Skills </h3>
