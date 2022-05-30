@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/63474692/164566285-f4d7e3a3-7ab2-4a9a-b61f-69f8bd88ca58.png" heigh="300px" width="300px" align="right">
+<img src="https://user-images.githubusercontent.com/63474692/170898960-1e280247-bad4-48fe-8355-48a979e28daa.png" heigh="300px" width="300px" align="right">
 
 ### Hi👋 My name is Pricila
 
