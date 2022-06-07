@@ -23,6 +23,9 @@
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas&logoColor=150458)
   ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-333333?style=flat&logo=scikitlearn&logoColor=F7931E)
   ![SciPy](https://img.shields.io/badge/-SciPy-333333?style=flat&logo=SciPy&logoColor=8CAAE6)
+  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras&logoColor=D00000)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch&logoColor=EE4C2C)
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=TensorFlow&logoColor=FF6F00)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask&logoColor=#000000)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=092E20)
 
@@ -33,10 +36,12 @@
   ![Apache Cassandra](https://img.shields.io/badge/-Apache%20Cassandra-333333?style=flat&logo=ApacheCassandra&logoColor=1287B1)
   ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-333333?style=flat&logo=ApacheHive&logoColor=FDEE21)
   ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=Elasticsearch&logoColor=005571)
+  ![Kibana](https://img.shields.io/badge/-Kibana-333333?style=flat&logo=Kibana&logoColor=005571)
 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logoColor=F80000)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=47A248)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis&logoColor=DC382D)
 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   
@@ -73,6 +78,6 @@
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: PRICILA PASZKO](https://img.shields.io/badge/-pripaszko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-pripaszko@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Linkedin: PRICILA PASZKO](https://img.shields.io/badge/-ppaszko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-pripaszko@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pripaszko@gmail.com)](mailto:pripaszko@gmail.com)
 [![GitHub PRICILA PASZKO]( https://img.shields.io/github/followers/pripaszko?label=follow&style=social)](https://github.com/pripaszko)
