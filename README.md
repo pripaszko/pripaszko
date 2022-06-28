@@ -10,7 +10,7 @@
 - 💼 &nbsp; Working as a Artificial Intelligence Developer at <a href="https://www.smarthint.co/">SmartHint</a>
 - 🎓 &nbsp; Machine Learning Engineer at <a href="https://www.igti.com.br/bootcamp/engenheiro-de-machine-learning?evento=ai_today">IGTI</a>.
 - 🎓 &nbsp; Studying Big Data Science at <a href="https://semantix.gupy.io/jobs/1730103">Semantix Academy</a>.
-- 🎓 &nbsp; Studying Big Data and Analytical Intelligence at <a href="https://ead.pucpr.br/cursos-graduacao/big-data-e-inteligencia-analitica-ead">PUCPR</a>.
+- 🎓 &nbsp; Studying Big Data and Analytics at <a href="https://ead.pucpr.br/cursos-graduacao/big-data-e-inteligencia-analitica-ead">PUCPR</a>.
 - 🎓 &nbsp; Studying Artificial Intelligence Training at <a href="https://www.datascienceacademy.com.br/bundle/formacao-inteligencia-artificial">Data Science Academy</a>.
 - 🌱 &nbsp; Learning more about Data Engineering and Artificial Intelligence.
 
@@ -33,15 +33,15 @@
   ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=ApacheSpark&logoColor=E25A1C)
   ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-333333?style=flat&logo=ApacheKafka&logoColor=231F20)
   ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-333333?style=flat&logo=ApacheAirflow&logoColor=017CEE)
-  ![Apache Cassandra](https://img.shields.io/badge/-Apache%20Cassandra-333333?style=flat&logo=ApacheCassandra&logoColor=1287B1)
   ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-333333?style=flat&logo=ApacheHive&logoColor=FDEE21)
+
   ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=Elasticsearch&logoColor=005571)
   ![Kibana](https://img.shields.io/badge/-Kibana-333333?style=flat&logo=Kibana&logoColor=005571)
-
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logoColor=F80000)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=47A248)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis&logoColor=DC382D)
+  ![Apache Cassandra](https://img.shields.io/badge/-Apache%20Cassandra-333333?style=flat&logo=ApacheCassandra&logoColor=1287B1)
 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   
