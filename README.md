@@ -1,7 +1,5 @@
 ### Hi👋 My name is Pricila
 
-![](https://komarev.com/ghpvc/?username=pripaszko&color=006bed)
-
 <h3> :relaxed: &nbsp;About me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing solutions using Artificial Intelligence.
