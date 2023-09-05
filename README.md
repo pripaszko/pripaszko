@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/63474692/170898960-1e280247-bad4-48fe-8355-48a979e28daa.png" heigh="300px" width="300px" align="right">
-
 ### Hi👋 My name is Pricila
 
 ![](https://komarev.com/ghpvc/?username=pripaszko&color=006bed)
@@ -8,10 +6,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing solutions using Artificial Intelligence.
 - 💼 &nbsp; Working as Artificial Intelligence Developer at <a href="https://www.smarthint.co/">SmartHint</a>
+- 🎓 &nbsp; Bachelor Big Data and Analytics at <a href="https://ead.pucpr.br/cursos-graduacao/big-data-e-inteligencia-analitica-ead">PUCPR</a>.
 - 🎓 &nbsp; Machine Learning Engineer at <a href="https://www.igti.com.br/bootcamp/engenheiro-de-machine-learning?evento=ai_today">IGTI</a>.
-- 🎓 &nbsp; Big Data Scientist at <a href="https://semantix.gupy.io/jobs/1730103">Semantix Academy</a>.
-- 🎓 &nbsp; Studying Big Data and Analytics at <a href="https://ead.pucpr.br/cursos-graduacao/big-data-e-inteligencia-analitica-ead">PUCPR</a>.
-- 🎓 &nbsp; Studying Artificial Intelligence Training at <a href="https://www.datascienceacademy.com.br/bundle/formacao-inteligencia-artificial">Data Science Academy</a>.
+- 🎓 &nbsp; Big Data Scientist and Engineer at <a href="https://semantix.gupy.io/">Semantix Academy</a>.
 - 🌱 &nbsp; Learning more about Data Engineering and Artificial Intelligence.
 
 <h3> :rocket: &nbsp;My Skills </h3>
@@ -78,6 +75,6 @@
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: PRICILA PASZKO](https://img.shields.io/badge/-ppaszko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ppaszko/)](https://www.linkedin.com/in/ppaszko/)
+[![Linkedin: PRICILA PASZKO](https://img.shields.io/badge/-ppaszko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ppaszko/)](https://www.linkedin.com/in/prpszk/)
 [![Gmail Badge](https://img.shields.io/badge/-pripaszko@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pripaszko@gmail.com)](mailto:pripaszko@gmail.com)
 [![GitHub PRICILA PASZKO]( https://img.shields.io/github/followers/pripaszko?label=follow&style=social)](https://github.com/pripaszko)
