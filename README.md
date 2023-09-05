@@ -73,6 +73,6 @@
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: PRICILA PASZKO](https://img.shields.io/badge/-ppaszko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ppaszko/)](https://www.linkedin.com/in/prpszk/)
+[![Linkedin: PRICILA PASZKO](https://img.shields.io/badge/-ppaszko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ppaszko/)](https://www.linkedin.com/in/ppaszko/)
 [![Gmail Badge](https://img.shields.io/badge/-pripaszko@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pripaszko@gmail.com)](mailto:pripaszko@gmail.com)
 [![GitHub PRICILA PASZKO]( https://img.shields.io/github/followers/pripaszko?label=follow&style=social)](https://github.com/pripaszko)
